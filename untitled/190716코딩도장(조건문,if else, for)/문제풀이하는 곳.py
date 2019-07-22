@@ -1,8 +1,3 @@
-paragraph = str(input())
-words = paragraph.split(' ')
-words = []
-for i in words:
-    words = paragraph.split(', ' ' ')
-    bool(i == words, True)
-    words = count+1
-    print(count)
+i = int(input())
+for i in range(i, 0, -1):
+    print(' '*i, '*'*((i+1)-1))

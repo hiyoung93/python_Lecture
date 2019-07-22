@@ -1,11 +1,11 @@
+import re
 filename = input('파일 이름 > ')
 wordsDict = dict()
 
-with open(filename, 'r') as file:
+with open(filename, 'r',encoding='utf-8') as file:
     for line in file :
-        linewords = line.replace('(,' ' ').replace(')',' ').replace(',', ' ')\
-            .replace('.', ' ').split()
-        # print(linewords)
+        linewords = re.sub('[-=+,#/\?:^$.@*\"※~&%ㆍ!』\\‘|\(\)\[\]\<\>`\'…》]', '',filename).split()
+        print(linewords)
         for word in linewords:
             count = wordsDict.get(word, 0)
             #print(count, end = ' ')

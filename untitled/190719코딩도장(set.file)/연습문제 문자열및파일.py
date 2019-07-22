@@ -25,3 +25,4 @@ with open(filename, 'r', encoding='UTF-8') as file:
     for line in file:
         if line in file(word) >= 0:
             print('%3d: '% lineNo, )
+
