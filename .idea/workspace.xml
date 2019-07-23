@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca2d63e0-910e-4836-b1bd-77ebfa15cc71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/백준 별찍기/별 찍기 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준 별찍기/별 찍기4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준 별찍기/별 찍기5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준 별찍기/별 찍기6.py" afterDir="false" />
+    <list default="true" id="ca2d63e0-910e-4836-b1bd-77ebfa15cc71" name="Default Changelist" comment="wordcount">
+      <change afterPath="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30(1)-매개변수초기값.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30(2)-연습문제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30-심사문제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30-인수사용.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit31-재귀호출.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/190719코딩도장(set.file)/unit27-심사문제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/190719코딩도장(set.file)/unit27-연습문제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/190719코딩도장(set.file)/wars.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/190719코딩도장(set.file)/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/fastcampus/chapter04-함수이해및활용01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/190716코딩도장(조건문,if else, for)/문제풀이하는 곳.py" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/190716코딩도장(조건문,if else, for)/문제풀이하는 곳.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/별 찍기 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/별 찍기 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준 별찍기/별 찍기6.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/별 찍기6.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +28,20 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/백준 별찍기/별 찍기6.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/백준 별찍기/별 찍기5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -59,8 +77,18 @@
         <option value="$PROJECT_DIR$/백준 별찍기/별 찍기 2.py" />
         <option value="$PROJECT_DIR$/백준 별찍기/별 찍기 3.py" />
         <option value="$PROJECT_DIR$/백준 별찍기/별 찍기4.py" />
-        <option value="$PROJECT_DIR$/백준 별찍기/별 찍기5.py" />
         <option value="$PROJECT_DIR$/백준 별찍기/별 찍기.py" />
+        <option value="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30-인수사용.py" />
+        <option value="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30(1)-매개변수초기값.py" />
+        <option value="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30(2)-연습문제.py" />
+        <option value="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit31-재귀호출.py" />
+        <option value="$PROJECT_DIR$/untitled/fastcampus/chapter04-함수이해및활용01.py" />
+        <option value="$PROJECT_DIR$/untitled/190719코딩도장(set.file)/words.txt" />
+        <option value="$PROJECT_DIR$/untitled/190719코딩도장(set.file)/wars.txt" />
+        <option value="$PROJECT_DIR$/untitled/190719코딩도장(set.file)/unit27-연습문제.py" />
+        <option value="$PROJECT_DIR$/untitled/190719코딩도장(set.file)/unit27-심사문제.py" />
+        <option value="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30-심사문제.py" />
+        <option value="$PROJECT_DIR$/백준 별찍기/별 찍기5.py" />
         <option value="$PROJECT_DIR$/백준 별찍기/별 찍기6.py" />
       </list>
     </option>
@@ -75,7 +103,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -87,6 +114,12 @@
               <item name="python_Lecture" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="E:\190527남궁하영\python_Lecture" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="untitled" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="python_Lecture" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\190527남궁하영\python_Lecture" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="untitled" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="170723코딩도장-함수키워드" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="python_Lecture" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -121,18 +154,30 @@
             <path>
               <item name="python_Lecture" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="E:\190527남궁하영\python_Lecture" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="untitled" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="fastcampus" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="python_Lecture" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\190527남궁하영\python_Lecture" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="백준 별찍기" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/wedcrawling/인스타 크롤 관련/인스타그램 전처리" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\190527남궁하영\python_Lecture\untitled" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,8 +191,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.별 찍기5">
-    <configuration name="별 찍기 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.별 찍기6">
+    <configuration name="별 찍기6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_Lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,91 +204,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준 별찍기/별 찍기 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="별 찍기 3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_Lecture" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준 별찍기" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준 별찍기/별 찍기 3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="문제풀이하는 곳" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_Lecture" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled/190716코딩도장(조건문,if else, for)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/190716코딩도장(조건문,if else, for)/문제풀이하는 곳.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="별 찍기4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_Lecture" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준 별찍기" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준 별찍기/별 찍기4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="별 찍기5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_Lecture" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준 별찍기" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준 별찍기/별 찍기5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준 별찍기/별 찍기6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,13 +276,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter04-함수이해및활용01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_Lecture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled/fastcampus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/fastcampus/chapter04-함수이해및활용01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unit27-연습문제" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_Lecture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled/190719코딩도장(set.file)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/190719코딩도장(set.file)/unit27-연습문제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unit27-심사문제" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_Lecture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled/190719코딩도장(set.file)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/190719코딩도장(set.file)/unit27-심사문제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unit30-심사문제" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_Lecture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30-심사문제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.별 찍기5" />
-        <item itemvalue="Python.별 찍기4" />
-        <item itemvalue="Python.별 찍기 3" />
-        <item itemvalue="Python.별 찍기 2" />
-        <item itemvalue="Python.문제풀이하는 곳" />
+        <item itemvalue="Python.별 찍기6" />
+        <item itemvalue="Python.unit30-심사문제" />
+        <item itemvalue="Python.unit27-심사문제" />
+        <item itemvalue="Python.unit27-연습문제" />
+        <item itemvalue="Python.chapter04-함수이해및활용01" />
       </list>
     </recent_temporary>
   </component>
@@ -350,12 +395,12 @@
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.4030668" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988399" weight="0.4030668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24972618" />
-      <window_info id="Favorites" order="2" side_tool="true" weight="0.32968238" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011601" side_tool="true" weight="0.4030668" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.86334056" visible="true" weight="0.31786543" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.86334056" visible="true" weight="0.34570765" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911798" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -502,13 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/190722코딩도장- 함수/unit29-함수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2046">
-          <caret line="62" column="12" lean-forward="true" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/untitled/190716코딩도장(조건문,if else, for)/문제풀이하는 곳.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -530,16 +568,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/백준 별찍기/별 찍기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/백준 별찍기/별 찍기5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/백준 별찍기/별 찍기.py" />
     <entry file="file://$PROJECT_DIR$/백준 별찍기/별 찍기 2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -547,8 +576,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/백준 별찍기/별 찍기6.py">
+    <entry file="file://$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30(1)-매개변수초기값.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30(2)-연습문제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30-인수사용.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2243">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/190722코딩도장- 함수/unit29-함수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="62" column="12" lean-forward="true" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit31-재귀호출.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/190719코딩도장(set.file)/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/190719코딩도장(set.file)/wars.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="318" selection-start-column="318" selection-end-column="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/190719코딩도장(set.file)/unit27-연습문제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/190719코딩도장(set.file)/unit27-심사문제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/170723코딩도장-함수키워드/unit30-심사문제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/fastcampus/chapter04-함수이해및활용01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준 별찍기/별 찍기5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준 별찍기/별 찍기6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
