@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d319f352-d60e-4cb0-9246-63f7960fb0f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/190723코딩도장-함수키워드/unit31재귀 연습문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190723코딩도장-함수키워드/unit31재귀호출심사문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190724람다함수/unit28회문판별.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190724람다함수/unit32 람다 표현식.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/170723코딩도장-함수키워드/unit30(1)-매개변수초기값.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/170723코딩도장-함수키워드/unit30(2)-연습문제.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/170723코딩도장-함수키워드/unit30-심사문제.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/170723코딩도장-함수키워드/unit30-인수사용.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/170723코딩도장-함수키워드/unit31-재귀호출.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/190716코딩도장(조건문,if else, for)/unit14.py" beforeDir="false" afterPath="$PROJECT_DIR$/190716코딩도장(조건문,if else, for)/unit14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190718코딩도장(list,tuple,2차원)/unit(2)list index.py" beforeDir="false" afterPath="$PROJECT_DIR$/190718코딩도장(list,tuple,2차원)/unit(2)list index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/190718코딩도장(list,tuple,2차원)/unit22-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/190718코딩도장(list,tuple,2차원)/unit22-list.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +13,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/190718코딩도장(list,tuple,2차원)/unit22-list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+            <state relative-caret-position="288">
+              <caret line="128" column="7" lean-forward="true" selection-start-line="128" selection-start-column="7" selection-end-line="128" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/190718코딩도장(list,tuple,2차원)/unit(2)list index.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/빅데이터전문가 양성과정190527/남궁하영13-34.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="239" lean-forward="true" selection-start-line="198" selection-end-line="239" />
             </state>
           </provider>
         </entry>
@@ -77,10 +83,11 @@
         <option value="$PROJECT_DIR$/190723코딩도장-함수키워드/unit31재귀호출심사문제.py" />
         <option value="$PROJECT_DIR$/190724람다함수/unit32 람다 표현식.py" />
         <option value="$PROJECT_DIR$/190718코딩도장(list,tuple,2차원)/unit22-list.py" />
+        <option value="$PROJECT_DIR$/190718코딩도장(list,tuple,2차원)/unit(2)list index.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
@@ -122,7 +129,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/빅데이터전문가 양성과정190527" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -339,15 +346,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.44578314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21545792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28074247" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27562642" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911798" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,8 +454,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/190718코딩도장(list,tuple,2차원)/unit22-list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+        <state relative-caret-position="288">
+          <caret line="128" column="7" lean-forward="true" selection-start-line="128" selection-start-column="7" selection-end-line="128" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190718코딩도장(list,tuple,2차원)/unit(2)list index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/빅데이터전문가 양성과정190527/남궁하영13-34.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="239" lean-forward="true" selection-start-line="198" selection-end-line="239" />
         </state>
       </provider>
     </entry>
